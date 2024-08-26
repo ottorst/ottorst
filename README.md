@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Otto Schmilinsky</h1>
-<h3 align="center">A passionate full stack backend developer from Spain, living in Ireland.</h3>
+<h3 align="center">A passionate full stack backend developer from Spain, living in Ireland. So also passionate about front-end design. I have been programming since 1986.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ottorst&label=Profile%20views&color=0e75b6&style=flat" alt="ottorst" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottorst" alt="ottorst" /></a> </p>
 
-- 🔭 I’m currently working on [Improve my skills in a soyHenry Bootcamp](https://www.soyhenry.com)
+- 🔭 I’m currently working on [Improve my skills in a soyHenry Bootcamp](https://www.soyhenry.com), and I'm dedicated to carry out projects that allow organizations to advance their long-term goals, make me grow as a programmer and above all: solve problems.
 
 - 🌱 I’m currently learning **NestJS, TypeScript, NodeJS, NextJS**
 
