@@ -5,6 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottorst" alt="ottorst" /></a> </p>
 
+<p align="left">About Me: Information Engineer specializing in fullstack and backend development at SoyHenry.com, also in knowledge management business strategies, with a master's degree in management and administration. of companies (MDD of the UAM). Focused on innovation, talent, sales of consulting projects, GdC models and implementation, design of complex interaction tech platforms. Experience in leadership, goal management, knowledge management and market competencies, new approaches, creativity and agile work. Thinking structure, excellent for organizing teams and companies, solving problems, analyzing, dividing them, relating fundamental parts and solving.</p>
+
+- LinkedIn: In order to know me [https://www.linkedin.com/in/ottoschmilinsky/]
+
+- My last and beautiful project, with SoyHenry: Backend [https://github.com/ottorst/pryback], FrontEnd [https://github.com/NAyalaB/pryfront], Compsition (not executable but spare) [https://github.com/ottorst/proyectofinal]
+
 - 🔭 I’m currently working on [Improve my skills in a soyHenry Bootcamp](https://www.soyhenry.com), and I'm dedicated to carry out projects that allow organizations to advance their long-term goals, make me grow as a programmer and above all: solve problems.
 
 - 🌱 I’m currently learning **NestJS, TypeScript, NodeJS, NextJS**
@@ -21,6 +27,8 @@
 
 - ⚡ Fun fact **I think developing is fun and challenging.**
 
+<h3 align="left">About me</h3>
+<p align="left">Information Engineer specializing in fullstack and backend development at SoyHenry.com, also in knowledge management business strategies, with a master's degree in management and administration. of companies (MDD of the UAM). Focused on innovation, talent, sales of consulting projects, GdC models and implementation, design of complex interaction tech platforms. Experience in leadership, goal management, knowledge management and market competencies, new approaches, creativity and agile work. Thinking structure, excellent for organizing teams and companies, solving problems, analyzing, dividing them, relating fundamental parts and solving.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">Don't forget contact me at schmilinskyotto@gmail.com
 </p>
