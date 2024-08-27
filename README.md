@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ottorst" alt="ottorst" /></a> </p>
 
+- 📫 How to reach me **schmilinskyotto@gmail.com**
 - LinkedIn: In order to know me [https://www.linkedin.com/in/ottoschmilinsky/]
+- 📄 Know about my experiences [https://github.com/ottorst](https://github.com/ottorst)
+- I'm in Madrid, Spain.
 
 - My last and beautiful project, with SoyHenry: Backend [https://github.com/ottorst/pryback], FrontEnd [https://github.com/NAyalaB/pryfront], Compsition (not executable but spare) [https://github.com/ottorst/proyectofinal]
 
@@ -18,10 +21,6 @@
 - 📝 I regularly write articles on [https://ottost.wixsite.com/consultoria/blog](https://ottost.wixsite.com/consultoria/blog)
 
 - 💬 Ask me about **NestJS, TypeScript, Prisma,**
-
-- 📫 How to reach me **schmilinskyotto@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/ottorst](https://github.com/ottorst)
 
 - ⚡ Fun fact **I think developing is fun and challenging.**
 
